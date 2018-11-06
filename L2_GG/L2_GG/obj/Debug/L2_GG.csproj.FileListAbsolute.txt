@@ -1,0 +1,14 @@
+D:\StudioProjects\L2_GG\L2_GG\bin\Debug\L2_GG.exe.config
+D:\StudioProjects\L2_GG\L2_GG\bin\Debug\L2_GG.exe
+D:\StudioProjects\L2_GG\L2_GG\bin\Debug\L2_GG.pdb
+D:\StudioProjects\L2_GG\L2_GG\obj\Debug\L2_GG.csprojAssemblyReference.cache
+D:\StudioProjects\L2_GG\L2_GG\obj\Debug\L2_GG.csproj.CoreCompileInputs.cache
+D:\StudioProjects\L2_GG\L2_GG\obj\Debug\L2_GG.exe
+D:\StudioProjects\L2_GG\L2_GG\obj\Debug\L2_GG.pdb
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\bin\Debug\L2_GG.exe.config
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\bin\Debug\L2_GG.exe
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\bin\Debug\L2_GG.pdb
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\obj\Debug\L2_GG.csprojAssemblyReference.cache
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\obj\Debug\L2_GG.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\obj\Debug\L2_GG.exe
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\l2gyn\L2_GG\L2_GG\obj\Debug\L2_GG.pdb
